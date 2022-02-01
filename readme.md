@@ -108,6 +108,8 @@
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
+    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/?logo=data:https://i.loli.net/2019/09/22/L1o7GsNVgw8lCmW.png;base64&style=plastic&logo=aAtcoder&logoColor=black" /></a>
+  &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
@@ -168,3 +170,5 @@
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
+
+<a href="#"><img alt = "Codeforces" src="https://cp-logo.vercel.app/codeforces/7oSkaaa" /></a>	
