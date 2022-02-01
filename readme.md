@@ -2,15 +2,18 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 <hr/>
-<h5 align="center">I am a Junior at Suez Canal University. I like to Code, Design, Innovate and Experiment, love comptetitive. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+
 <br>
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
 	</a>
 </p>
+
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
@@ -19,7 +22,7 @@
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-
+- :nerd_face: I always like to learn new things
 
 
 
