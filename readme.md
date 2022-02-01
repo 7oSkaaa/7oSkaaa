@@ -18,7 +18,7 @@
 - :trophy: `ACPC` Finalist 2021
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](Ahmed Hossam's Resume.pdf).
+- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://github.com/7oSkaaa/7oSkaaa/blob/main/Ahmed%20Hossam's%20Resume.pdf).
 
 
 
