@@ -18,7 +18,7 @@
 - :trophy: `ACPC` Finalist 2021
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://github.com/7oSkaaa/7oSkaaa/blob/main/Ahmed%20Hossam's%20Resume.pdf).
+- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 
 
 
@@ -184,6 +184,6 @@
 
 <br/>
 
-## :trophy: Trophies
+## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
