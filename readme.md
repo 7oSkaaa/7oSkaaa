@@ -12,6 +12,11 @@
 	</a>
 </p>
 
+## :sassy_man:  About me
+- :school: I am a Junior at Faculty of Computers & Informatics at Suez Canal University
+
+
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
