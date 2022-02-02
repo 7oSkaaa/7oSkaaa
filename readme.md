@@ -16,7 +16,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :technologist: hand I love using Software as a solution for every `Problem`
+- :technologist: I love using Software as a solution for every `Problem`
 - :trophy: `ACPC` Finalist 2021
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
