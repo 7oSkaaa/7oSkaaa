@@ -15,7 +15,9 @@
 
 ## :sassy_man:  About me
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156675363-f6538e59-87cc-4851-8ca5-c673adcd0efe.gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 320px/>
+
+<br><br>
 
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
