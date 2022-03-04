@@ -13,8 +13,10 @@
 	</a>
 </p>
 
-
 ## :sassy_man:  About me
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156675363-f6538e59-87cc-4851-8ca5-c673adcd0efe.gif"/>
+
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
