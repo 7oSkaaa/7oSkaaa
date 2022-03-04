@@ -37,7 +37,7 @@
 <br>
 
 
-## 👀 My Competitive Programming Profiles
+## <img src="https://user-images.githubusercontent.com/63050133/156775623-d7ba7abb-a29f-43fc-b910-334027773a97.png" width=40> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
