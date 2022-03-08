@@ -170,7 +170,7 @@
 ## 🔥 Streak Stats
 	
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 ## 📊 Github Stats
 
