@@ -29,13 +29,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
-
 
 ## <img src="https://user-images.githubusercontent.com/63050133/156775623-d7ba7abb-a29f-43fc-b910-334027773a97.png" width=40> My Competitive Programming Profiles
 
@@ -167,7 +160,13 @@
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
 
-<br/>
+<br> 
+
+## 🔥 Streak Stats
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
 
 ## 📊 Github Stats
 
