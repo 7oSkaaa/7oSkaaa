@@ -54,7 +54,6 @@
 
 
 
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -162,6 +161,12 @@
 
 <br> 
 
+---
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
 ## 🔥 Streak Stats
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
@@ -169,7 +174,6 @@
 <br>
 
 ## 📊 Github Stats
-
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
