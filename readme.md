@@ -167,15 +167,15 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## 🔥 Streak Stats
-	
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
 ## 📊 Github Stats
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+	
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
-  <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
   
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
