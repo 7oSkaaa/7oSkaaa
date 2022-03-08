@@ -175,10 +175,9 @@
 ## 📊 Github Stats
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <br/>
-  <p align="center">
+  <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+  
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" height="180px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="7oSkaaa" height="180px"/>
@@ -187,17 +186,18 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+</details>
 
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
   <br/>
    <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+</details>
 
 <br/>
 
-## :trophy: Git profile Trophies
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+	
+</details>
