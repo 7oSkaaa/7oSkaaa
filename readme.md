@@ -249,7 +249,9 @@
 	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	
+	<a href="https://github.com/7oSkaaa/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
