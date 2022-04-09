@@ -254,4 +254,4 @@
 </details>
 
 	
-![github contribution grid snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
+https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.gif
