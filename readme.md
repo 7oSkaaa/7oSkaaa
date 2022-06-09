@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University.
+- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - :trophy: `ACPC` Finalist 2021.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
