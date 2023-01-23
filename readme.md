@@ -7,9 +7,9 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=00008B&style=plastic?" alt="7oSkaaa" height=25px, width=150px/> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=00008B&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic??" alt="Most Active Users" target="_blank" height=25px, width=300px/> 
+		<img src="https://aktive.tk/egypt/kerolloz?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 	</a>
 
 </p>
