@@ -61,7 +61,7 @@
 
 
 
-## <picture> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIxNTIwMGJkZGQxZDcxMTY2YzRmNTBjNGI5MGY0ZDQ0NzdlYWFmYyZjdD1z/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> </picture> My Skills
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIxNTIwMGJkZGQxZDcxMTY2YzRmNTBjNGI5MGY0ZDQ0NzdlYWFmYyZjdD1z/QssGEmpkyEOhBCb7e1/giphy.gif?" width="30px"/></picture> My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
