@@ -7,12 +7,12 @@
 <br>
 
 <p align="center"> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="7oSkaaa" target="_blank", width=40%/> 
-	</a>
 	<!-- 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="7oSkaaa" target="_blank", width=40%/> 
 	</a> -->
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
+	</a>
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="7oSkaaa" width=19.40%/>
 </p>
 
