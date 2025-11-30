@@ -145,8 +145,6 @@ My journey is driven by a love for problem-solving and building efficient softwa
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo&hide_border=true" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=8&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
 </div>
 
 <br/>
