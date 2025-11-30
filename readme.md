@@ -182,11 +182,12 @@ My journey is driven by a love for problem-solving and building efficient softwa
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<td align="center" width="50%">
+      <a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
+
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -281,18 +282,6 @@ My journey is driven by a love for problem-solving and building efficient softwa
     <td align="center" width="50%">
       <a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/7oSkaaa/Udemy-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
