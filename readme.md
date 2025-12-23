@@ -143,8 +143,10 @@ My journey is driven by a love for problem-solving and building efficient softwa
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo&hide_border=true" alt="Streak Stats" />
-  <br/><br/>
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=7oSkaaa&theme=meta-dark&hide_border=true" alt="GitHub Streak"/>
+	</a>  
+	<br/>
+	<br/>
 </div>
 
 <br/>
