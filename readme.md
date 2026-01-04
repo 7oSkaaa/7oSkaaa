@@ -53,23 +53,6 @@ My journey is driven by a love for problem-solving and building efficient softwa
 
 ---
 
-## 💼 Experience
-
-### Software Development Engineer 2 @ [noon](https://www.noon.com/)
-*Key Responsibilities:*
-- Built two internal services from scratch: A tools platform for the catalog team and an internal form service used across noon.
-- Took full ownership of the Product Listing Page (PLP) and Product Detail Page (PDP) backend, improving speed and stability.
-- Improved PLP/PDP performance by optimizing heavy queries, reducing slow backend paths, and building stronger caching systems.
-- Maintained and improved a background service (Python) that handles product and offer re-indexing.
-- Helped rewrite a main catalog service from JavaScript to Go, making it faster and cleaner.
-- Refactored backend services and added shared utilities like Bigtable helpers and caching helpers.
-- Delivered backend features in Go and Python, working with Bigtable, Spanner, MySQL, and BigQuery.
-- Improved code quality through pre-commit hooks and better remote config setup.
-- Mentored new team members and supported onboarding.
-- Enhanced monitoring and reliability using Google Metrics, Alerts, and observability tools.
-
----
-
 ## 🛠️ Technical Skills
 
 <div align="center">
