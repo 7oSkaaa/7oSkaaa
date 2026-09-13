@@ -1,0 +1,46 @@
+name: Update Dynamic Repositories
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-repos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update top repositories in README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: 7oSkaaa
+          REPO_LIMIT: 6
+          CARD_THEME: tokyonight
+        run: python scripts/update_repos.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add readme.md
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: update dynamic profile content [skip ci]"
+            git push
+          fi
