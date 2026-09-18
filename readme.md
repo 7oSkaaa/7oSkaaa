@@ -52,7 +52,8 @@
 
 <br/>
 
-I am a passionate **Software Development Engineer 3** currently working at **[noon](https://www.noon.com/egypt-en/)**. I graduated from the **[Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/)**.
+I am a passionate **Software Development Engineer 3** currently working at **[noon](https://www.noon.com/egypt-en/)**. 
+I graduated from the **[Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/)**.
 
 > Building scalable systems and solving complex problems with a passion for efficient, elegant solutions.
 
