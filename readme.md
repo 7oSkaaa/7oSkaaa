@@ -354,8 +354,6 @@ My journey is driven by a love for problem-solving and building efficient softwa
 
 - ⚡ Pushed to [7oSkaaa/7oSkaaa](https://github.com/7oSkaaa/7oSkaaa) `(2026-09-18)`
 - ⚡ Pushed to [7oSkaaa/7oSkaaa](https://github.com/7oSkaaa/7oSkaaa) `(2026-09-13)`
-- ⚡ Pushed to [7oSkaaa/polygon-problems-generator](https://github.com/7oSkaaa/polygon-problems-generator) `(2026-08-30)`
-- ⚡ Pushed to [7oSkaaa/polygon-problems-generator](https://github.com/7oSkaaa/polygon-problems-generator) `(2026-08-28)`
 
 <!-- ACTIVITY-END -->
 
