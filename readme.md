@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+3+%40noon;Head+of+Scientific+Committee+%40ACPC;Former+Leader+Coach+%40Coach+Academy;Competitive+Programmer+%26+Problem+Solver;%F0%9F%8F%86+3x+ACPC+Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+3+%40noon;ACPC+Regional+Problem+Setting+Lead;Former+Leader+Coach+%40Coach+Academy;Competitive+Programmer+%26+Problem+Solver;%F0%9F%8F%86+3x+ACPC+Finalist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -72,7 +72,7 @@ My journey is driven by a love for problem-solving and building efficient softwa
 | Role | Organization | Period | Focus Areas |
 | :--- | :--- | :--- | :--- |
 | **Software Development Engineer 3** | **[noon](https://www.noon.com/egypt-en/)** | *Present* | Distributed systems, high-scale backend services, GCP & caching |
-| **Head of Scientific Committee** | **[ACPC](https://acpc.global/)** | *Present* | Problem setting, contest review, test suite verification & contest integrity |
+| **ACPC Regional Problem Setting Lead** | **[ACPC](https://acpc.global/)** | *Present* | Problem setting, contest review, test suite verification & contest integrity |
 | **Leader Coach** | **Coach Academy** | *Former* | Competitive programming training, advanced data structures & algorithms |
 
 <br/>
@@ -207,7 +207,7 @@ My journey is driven by a love for problem-solving and building efficient softwa
 
 <br/>
 
-- 🏛️ **Head of Scientific Committee @ ACPC**: Directing problem creation, review, and verification for regional and national collegiate contests.
+- 🏛️ **ACPC Regional Problem Setting Lead**: Directing problem creation, review, and verification for regional and national collegiate contests.
 - 🛠️ **[Codeforces-Polygon-Template](https://github.com/7oSkaaa/Codeforces-Polygon-Template)**: Reusable, standardized template for Polygon contest preparation, generators, and validators.
 - ⚡ **[Stress_Testing](https://github.com/7oSkaaa/Stress_Testing)**: Automated stress testing framework for competitive programmers to find edge-case counter-tests.
 - 📚 **[Competitive-Programming-Session-Content](https://github.com/7oSkaaa/Competitive-Programming-Session-Content)**: Curated educational roadmap, problem sets, and session materials.
