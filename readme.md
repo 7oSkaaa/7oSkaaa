@@ -26,7 +26,7 @@
   <a href="https://wa.me/0201208822340">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/7oSkaaa/7oSkaaa/blob/main/Ahmed_Hossam_Resume.pdf">
+  <a href="https://drive.google.com/file/d/16KfURaBsLj08She_fNPQJP7-dcRVE6SQ/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://7oskaaa.github.io/Portfolio/">
